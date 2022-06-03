@@ -43,8 +43,8 @@ The search can be further refined by entering the state of Florida (fl), yieldin
 1. One drawback of this UFO Sightings website is that the search entries need to be typed in the exact format as the underlying dataset.  For example, the state must be entered as two lowercase letters.  Entering a state's proper name, or with two uppercase letters, will yield incorrect search results.
 
 2. Two recommendations for further development are to consider adding:
-* data validation to the input fields to ensure only valid values and formats are entered and/or using drop-down lists so the user can select from available data; and
-* adding a "search now" button for the user to push after entering all relevant search criteria instead of pressing enter
+* Data validation to the input fields to ensure only valid values and formats are entered and/or using drop-down lists so the user can select from available data; and
+* Adding a "search now" button for the user to push after entering all relevant search criteria instead of pressing enter
 
 ### Resources
 
