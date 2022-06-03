@@ -4,7 +4,7 @@
 
 [Link to app.js code](static/js/app.js)
 
-[Link to style.css code] (static/css/style.css)
+[Link to style.css code](static/css/style.css)
 
 [Link to index.html code](index.html)
 
